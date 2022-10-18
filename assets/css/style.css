@@ -1,0 +1,25 @@
+.hero-text{
+    font-size: 18px;
+    font-weight: 490;
+}
+button .radius{
+    border-radius: 500px;
+    font-size: 200px;
+}
+.btn-yellow{
+    background-color: #ffc107;
+    padding: 12px;
+    width: 220px;
+    border: none;
+    border-radius: 30px;
+    font-weight: 500;
+    font-size: 20px;
+}
+a.click{
+    text-decoration: none;
+    color: #22a172;
+}
+a.click:hover{
+    color: #204135;
+    text-decoration: none;
+}
